@@ -43,10 +43,10 @@ const std::string HTMLData = R"(<html>
 /**
  * Prints HTTP response data results in HTML to an output stream.
  *
- * \param[in] is The input stream where the HTTP response data is
+ * @param is The input stream where the HTTP response data is
  * read from and the numbers that are going to be averaged together.
  *
- * \param[out] os The output stream where the HTTP response data and
+ * @param os The output stream where the HTTP response data and
  * HTML is going to be returned.
  */
 void process(std::istream& is, std::ostream& os) {
@@ -59,7 +59,7 @@ void process(std::istream& is, std::ostream& os) {
         !hdr.empty() && hdr != "\r";) {}
 
     // The following loop iterates over all numbers in the HTTP response data
-    // summing all of them together and counting the number of them as it goes.
+    // summing all of them together and counting the number of them.
     for (int val; (is >> val); count++, sum += val) {}
     
     const float avg = sum * 1.f / count;
