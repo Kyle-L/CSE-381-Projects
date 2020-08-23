@@ -25,4 +25,4 @@ This is the repository for the development of coding assignments for [CSE 381 Sy
 
 <a name="license"></a>
 ## License
-[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](GPL)
+[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
