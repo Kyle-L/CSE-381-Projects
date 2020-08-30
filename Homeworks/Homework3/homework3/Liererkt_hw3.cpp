@@ -24,7 +24,7 @@ Solution::Solution() {}
 // Destructor
 Solution::~Solution() {}
 
-// Loads a PID tree into memory.
+// Loads a process tree into memory.
 void Solution::LoadTree(std::ifstream& in) {
     std::string line, dummy, cmd;
     int pid, ppid;
