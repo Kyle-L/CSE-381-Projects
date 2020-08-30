@@ -1,0 +1,230 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root       100     2  0  2019 ?        00:00:00 [acpi_thermal_pm]
+root        20     2  0  2019 ?        00:00:16 [watchdog/2]
+root        37     2  0  2019 ?        00:00:08 [khungtaskd]
+nguyen45 21368 21306  0 17:45 ?        00:00:00 /usr/lib/openssh/sftp-server
+root     13883   917  0 16:03 ?        00:00:00 sshd: caof2 [priv]
+fengb3   14815     1  0  2019 ?        00:04:57 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 14640 0
+root     14640     1  0 Feb05 ?        00:01:53 /usr/bin/vmtoolsd
+root        26     2  0  2019 ?        00:00:21 [watchdog/3]
+root       187     2  0  2019 ?        00:00:00 [mpt_poll_0]
+root        49     2  0  2019 ?        00:00:00 [devfreq_wq]
+fengb3   32136 32085  0  2019 ?        00:04:20 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 32085 0
+root       196     2  0  2019 ?        00:03:25 [kworker/1:1H]
+www-data 10344   931  0 13:37 ?        00:00:00 /usr/sbin/apache2 -k start
+ghumraka 22031 18092  0 18:27 ?        00:00:00 /usr/lib/openssh/sftp-server
+cerciaj  10092 10091  0 Jan27 ?        00:00:00 /bin/sh -s
+root        34     2  0  2019 ?        00:00:00 [kauditd]
+romanoad 29825 29824  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty -- /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/1
+root       747     1  0  2019 ?        00:12:57 /usr/lib/accountsservice/accounts-daemon
+www-data  4733   931  0 06:25 ?        00:00:00 /usr/sbin/apache2 -k start
+root     14268     2  0 Feb05 ?        00:00:00 [jfsIO]
+root     22756     2  0 19:09 ?        00:00:00 [kworker/2:2]
+root     10520     1  0 Feb05 ?        00:00:00 /lib/systemd/systemd-udevd
+cerciaj   7416  7354  0 Jan27 ?        00:00:00 /usr/lib/openssh/sftp-server
+fengb3    5970     1  0  2019 ?        00:04:08 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.Extension.linux
+root     14273     2  0 Feb05 ?        00:00:00 [jfsSync]
+root        11     2  0  2019 ?        00:00:16 [watchdog/0]
+root        46     2  0  2019 ?        00:00:00 [ata_sff]
+richa219 20852 20781  0  2019 ?        00:05:04 /home/richa219/.vscode-server-insiders/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 20781 0
+www-data  4737   931  0 06:25 ?        00:00:00 /usr/sbin/apache2 -k start
+raodm    22827 22826  0 Feb05 pts/46   00:00:00 -bash
+raodm    25454 25176  0 21:08 pts/0    00:00:00 ./a.out
+root       836     1  0  2019 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root       741     1  0  2019 ?        00:00:14 /usr/sbin/cron -f
+root        27     2  0  2019 ?        00:00:04 [migration/3]
+romanoad  9153     1  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty --readenv /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/39
+zhang593 17733     1  0  2019 ?        00:00:00 -bash
+root       282     2  0  2019 ?        00:14:16 [jbd2/dm-0-8]
+root     14639     1  0 Feb05 ?        00:00:00 /usr/bin/VGAuthService
+raodm    25463 25462  0 21:08 pts/0    00:00:00 ./a.out       --2
+root       213     2  0  2019 ?        00:00:00 [kdmflush]
+fengb3   22264     1  0 Feb05 ?        00:00:00 /home/fengb3/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/node /home/fengb3/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/json-language-features/server/dist/jsonServerMain --node-ipc --clientProcessId=22166
+root       917     1  0  2019 ?        00:00:37 /usr/sbin/sshd -D
+richa219 20781     1  0  2019 ?        00:00:01 /home/richa219/.vscode-server-insiders/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.Extension.linux
+raodm    25456 25455  0 21:08 pts/0    00:00:00 ./a.out
+cerciaj  10091 10090  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --no-pty -- /var/tmp/dlight_cerciaj/a8532293/env --env LC_ALL=C /bin/sh -s
+www-data 10337   931  0 13:30 ?        00:00:00 /usr/sbin/apache2 -k start
+ghumraka 22534 18092  0 18:49 ?        00:00:00 /var/tmp/dlight_ghumraka/f50e6053/0216383175/pty --no-pty --readenv /var/tmp/dlight_ghumraka/f50e6053/env --env LC_ALL=C /bin/sh -s
+romanoad  9159  9155  0  2019 ?        00:00:00 /home/romanoad/cse381/homework/hw9/hw9
+root       194     2  0  2019 ?        00:04:17 [kworker/3:1H]
+www-data   935     1  0  2019 ?        00:02:14 /usr/bin/htcacheclean -d 120 -p /var/cache/apache2/mod_cache_disk -l 300M -n
+cerciaj  10077 10076  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --set-erase-key -- /var/tmp/dlight_cerciaj/a8532293/env --env DYLD_LIBRARY_PATH= --env LD_LIBRARY_PATH= --env PROMPT_COMMAND=printf "?]3;${PWD}?"; ideopen() { printf "?]10;ext[::] ideopen $*;?"; printf "Opening $# file(s) ... ";} --env TERM=xterm /bin/bash --login
+whoopsie  9565     1  0 Feb05 ?        00:00:00 /usr/bin/whoopsie -f
+root       216     2  0  2019 ?        00:00:00 [bioset]
+root        15     2  0  2019 ?        00:00:05 [migration/1]
+raodm    25464 25463  0 21:08 pts/0    00:00:00 ./a.out
+root        45     2  0  2019 ?        00:00:00 [kblockd]
+romanoad 14213 14212  0  2019 ?        00:00:00 /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/16
+root      7329   917  0 Jan27 ?        00:00:00 sshd: cerciaj [priv]
+root     24327     2  0 20:09 ?        00:00:01 [kworker/3:1]
+root        44     2  0  2019 ?        00:00:00 [kintegrityd]
+root       191     2  0  2019 ?        00:00:00 [scsi_tmf_2]
+root       735     1  0  2019 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+fengb3    6107  5970  0  2019 ?        00:04:54 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 5970 0
+root        41     2  0  2019 ?        00:00:00 [ksmd]
+systemd+  2687     1  0 Feb05 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root       104     2  0  2019 ?        00:00:00 [scsi_tmf_1]
+root        55     2  0  2019 ?        00:00:23 [kswapd0]
+root        28     2  0  2019 ?        00:00:49 [ksoftirqd/3]
+root        24     2  0  2019 ?        00:00:00 [kworker/2:0H]
+ghumraka 18100 18099  0 Feb07 ?        00:00:00 /var/tmp/dlight_ghumraka/f50e6053/0216383175/pty --no-pty -- /var/tmp/dlight_ghumraka/f50e6053/env /var/tmp/dlight_ghumraka/f50e6053/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_ghumraka/f50e6053/fs_server_cache -K 5155:3000
+raodm    25459 25458  0 21:08 pts/0    00:00:00 ./a.out
+fengb3   14646     1  0  2019 ?        00:03:10 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.2-insiders/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 14628 0
+xuz14    29097 29089  0  2019 ?        00:00:48 /home/xuz14/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/node /home/xuz14/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/vs/server/main.js --host=127.0.0.1 --enable-remote-auto-shutdown --port=0
+message+   759     1  0  2019 ?        00:00:15 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+syslog     746     1  0  2019 ?        00:03:15 /usr/sbin/rsyslogd -n
+root     17650     1  0 Feb05 ?        00:00:00 /sbin/lvmetad -f
+ghumraka 18099 18092  0 Feb07 ?        00:00:00 /var/tmp/dlight_ghumraka/f50e6053/0216383175/pty --no-pty --readenv /var/tmp/dlight_ghumraka/f50e6053/env /var/tmp/dlight_ghumraka/f50e6053/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_ghumraka/f50e6053/fs_server_cache -K 5155:3000
+raodm    25176 25175  0 20:57 pts/0    00:00:00 -bash
+romanoad 14217 14213  0  2019 ?        00:00:00 /home/romanoad/cse381/homework/hw9/hw9
+raodm    25462 25461  0 21:08 pts/0    00:00:00 ./a.out
+daemon     748     1  0  2019 ?        00:00:00 /usr/sbin/atd -f
+raodm    25458 25457  0 21:08 pts/0    00:00:00 ./a.out
+nguyen45 21383 21382  0 17:45 ?        00:00:02 /var/tmp/dlight_nguyen45/75a0a156/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_nguyen45/75a0a156/fs_server_cache -K 3888 3000
+cerciaj  10486 10461  0 Jan27 ?        00:00:01 sshd: cerciaj@notty
+root         8     2  0  2019 ?        00:58:19 [rcu_sched]
+fengb3   12417     1  0  2019 ?        00:00:09 qemu-system-x86_64 -display curses -k en-us -no-reboot -no-kvm -show-cursor -kernel vmlinuz-3.17.7-300.fc21.x86_64 -initrd initramfs.cpio
+root       837     1  0  2019 ?        00:00:02 /usr/lib/policykit-1/polkitd --no-debug
+romanoad 29828 29826  0  2019 ?        00:00:00 /home/romanoad/cse381/homework/hw9/hw9
+root        12     2  0  2019 ?        00:00:00 [cpuhp/0]
+raodm    25457 25456  0 21:08 pts/0    00:00:00 ./a.out
+root     14262     2  0 Feb05 ?        00:00:00 [xfs_mru_cache]
+root       931     1  0  2019 ?        00:03:36 /usr/sbin/apache2 -k start
+root        14     2  0  2019 ?        00:00:15 [watchdog/1]
+fengb3     623     1  0  2019 pts/33   00:00:00 /bin/sh
+root       101     2  0  2019 ?        00:00:00 [scsi_eh_0]
+root       190     2  0  2019 ?        00:00:00 [scsi_eh_2]
+root        42     2  0  2019 ?        00:00:43 [khugepaged]
+cerciaj  10090  7354  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --no-pty --readenv /var/tmp/dlight_cerciaj/a8532293/env --env LC_ALL=C /bin/sh -s
+root        32     2  0  2019 ?        00:00:00 [netns]
+root         2     0  0  2019 ?        00:00:01 [kthreadd]
+root       868     1  0  2019 ?        00:00:04 /var/ossec/bin/ossec-execd
+root         4     2  0  2019 ?        00:00:00 [kworker/0:0H]
+uuidd    10424     1  0 Feb05 ?        00:00:00 /usr/sbin/uuidd --socket-activation
+root         7     2  0  2019 ?        00:11:51 [ksoftirqd/0]
+root       119     2  0  2019 ?        00:00:00 [kstrp]
+cerciaj  10487 10486  0 Jan27 ?        00:00:00 /usr/lib/openssh/sftp-server
+caof2    13909 13908  0 16:03 ?        00:00:00 /usr/lib/openssh/sftp-server
+root  1  0  0  2019 ?   00:02:02 /lib/systemd/systemd  --system   --deserialize    19
+richa219  3353     1  0  2019 ?        00:00:00 /home/richa219/.vscode-server-insiders/bin/a14de79ac74f2e0e6566d3cc9410eeb7dc769cde/node /home/richa219/.vscode-server-insiders/bin/a14de79ac74f2e0e6566d3cc9410eeb7dc769cde/extensions/html-language-features/server/dist/htmlServerMain --node-ipc --clientProcessId=1429
+raodm    25474 25176  0 21:09 pts/0    00:00:00 ps -fea
+root        13     2  0  2019 ?        00:00:00 [cpuhp/1]
+mysql    16198     1  0 Feb05 ?        00:01:10 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+root        19     2  0  2019 ?        00:00:00 [cpuhp/2]
+romanoad  3382  3381  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw5 --no-pty -- /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/4
+root       430     2  0  2019 ?        00:00:00 [ttm_swap]
+richa219 12552     1  0  2019 ?        00:00:19 /home/richa219/.vscode-server-insiders/extensions/ms-vscode.cpptools-0.25.1/bin/Microsoft.VSCode.CPP.Extension.linux
+zhang593 29356     1  0  2019 ?        00:00:00 -bash
+root       102     2  0  2019 ?        00:00:00 [scsi_tmf_0]
+fengb3   32085     1  0  2019 ?        00:00:42 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.Extension.linux
+root       650     1  0  2019 ?        00:00:26 /sbin/dhclient -1 -4 -v -pf /run/dhclient.ens32.pid -lf /var/lib/dhcp/dhclient.ens32.leases -I -df /var/lib/dhcp/dhclient6.ens32.leases ens32
+www-data  4735   931  0 06:25 ?        00:00:00 /usr/sbin/apache2 -k start
+raodm    25460 25459  0 21:08 pts/0    00:00:00 ./a.out  --one    --two -3
+root       492     2  0  2019 ?        00:00:00 [bioset]
+raodm    22826 22795  0 Feb05 ?        00:00:00 sshd: raodm@pts/46
+root        22     2  0  2019 ?        00:40:16 [ksoftirqd/2]
+root       192     2  0  2019 ?        00:08:25 [kworker/2:1H]
+fengb3   10152     1  0  2019 ?        00:00:00 /usr/bin/SCREEN
+richa219 20999     1  0  2019 ?        00:00:00 /home/richa219/.vscode-server-insiders/bin/be68a4e14c28cc81cdf422739af23123b3c91fd2/node /home/richa219/.vscode-server-insiders/extensions/streetsidesoftware.code-spell-checker-1.7.18/server/server.js --node-ipc --clientProcessId=20952
+raodm    25175 25150  0 20:57 ?        00:00:00 sshd: raodm@pts/0
+fengb3   10153 10152  0  2019 pts/2    00:00:01 /bin/bash
+romanoad 29824     1  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty --readenv /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/1
+blacknd2 25223 25044  0  2019 ?        00:00:00 ./Homework5
+root       480     2  0  2019 ?        00:00:00 [ext4-rsv-conver]
+blacknd2 25044     1  0  2019 ?        00:00:00 -bash
+cerciaj   7433  7354  0 Jan27 ?        00:00:00 /usr/lib/openssh/sftp-server
+www-data  4734   931  0 06:25 ?        00:00:00 /usr/sbin/apache2 -k start
+nguyen45 21381 21306  0 17:45 ?        00:00:00 /var/tmp/dlight_nguyen45/75a0a156/819017922/pty --no-pty --readenv /var/tmp/dlight_nguyen45/75a0a156/env /var/tmp/dlight_nguyen45/75a0a156/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_nguyen45/75a0a156/fs_server_cache -K 3888:3000
+romanoad 29826 29825  0  2019 ?        00:00:00 /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/1
+root        18     2  0  2019 ?        00:00:00 [kworker/1:0H]
+cerciaj   7441  7440  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_cerciaj/a8532293/fs_server_cache -c
+root       920     1  0  2019 ?        00:00:49 /var/ossec/bin/ossec-logcollector
+root        50     2  0  2019 ?        00:00:00 [watchdogd]
+ghumraka 18101 18100  0 Feb07 ?        00:00:01 /var/tmp/dlight_ghumraka/f50e6053/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_ghumraka/f50e6053/fs_server_cache -K 5155 3000
+root        33     2  0  2019 ?        00:00:00 [rcu_tasks_kthre]
+root       782     1  0  2019 ?        00:00:29 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+nguyen45 21382 21381  0 17:45 ?        00:00:00 /var/tmp/dlight_nguyen45/75a0a156/819017922/pty --no-pty -- /var/tmp/dlight_nguyen45/75a0a156/env /var/tmp/dlight_nguyen45/75a0a156/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_nguyen45/75a0a156/fs_server_cache -K 3888:3000
+raodm    25461 25460  0 21:08 pts/0    00:00:00 ./a.out
+romanoad  3383  3382  0  2019 ?        00:00:01 /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/4
+richa219 12420     1  0  2019 ?        00:00:00 /home/richa219/.vscode-server-insiders/bin/a14de79ac74f2e0e6566d3cc9410eeb7dc769cde/node /home/richa219/.vscode-server-insiders/extensions/streetsidesoftware.code-spell-checker-1.7.18/server/server.js --node-ipc --clientProcessId=12376
+root     18067   917  0 Feb07 ?        00:00:00 sshd: ghumraka [priv]
+root        21     2  0  2019 ?        00:00:04 [migration/2]
+cerciaj   7354  7329  0 Jan27 ?        00:00:00 sshd: cerciaj@notty
+root       927     1  0  2019 ?        00:00:51 /var/ossec/bin/ossec-syscheckd
+www-data 10342   931  0 13:37 ?        00:00:00 /usr/sbin/apache2 -k start
+fengb3    5961     1  0  2019 ?        00:00:00 /home/fengb3/.vscode-server/extensions/ms-vscode.cpptools-0.26.0/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 24787 16
+ossec      914     1  0  2019 ?        00:00:02 /var/ossec/bin/ossec-agentd
+root     22273     1  0  2019 ?        00:02:04 /usr/sbin/nscd
+root     21555     2  0 Feb03 ?        00:00:34 [kworker/2:0]
+cerciaj   7440  7439  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --no-pty -- /var/tmp/dlight_cerciaj/a8532293/env /var/tmp/dlight_cerciaj/a8532293/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_cerciaj/a8532293/fs_server_cache -c
+richa219 15445 12552  0  2019 ?        00:05:00 /home/richa219/.vscode-server-insiders/extensions/ms-vscode.cpptools-0.25.1/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.linux 12552 5
+root       136     2  0  2019 ?        00:00:00 [charger_manager]
+cerciaj  10078 10077  0 Jan27 pts/8    00:00:00 /bin/bash --login
+root       758     1  0  2019 ?        00:05:54 /usr/sbin/irqbalance --foreground
+root        38     2  0  2019 ?        00:00:00 [oom_reaper]
+root       110     2  0  2019 ?        00:00:00 [ipv6_addrconf]
+ghumraka 22536 22535  0 18:49 ?        00:00:00 /bin/sh -s
+root     14271     2  0 Feb05 ?        00:00:00 [jfsCommit]
+root       431     2  0  2019 ?        00:00:00 [irq/16-vmwgfx]
+root        56     2  0  2019 ?        00:00:00 [kworker/u9:0]
+root      2460     2  0 Feb05 ?        00:00:05 [kworker/1:3]
+root         9     2  0  2019 ?        00:00:00 [rcu_bh]
+www-data 10343   931  0 13:37 ?        00:00:00 /usr/sbin/apache2 -k start
+romanoad  3381     1  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw5 --no-pty --readenv /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/4
+richa219 15461 12552  0  2019 ?        00:00:00 [Microsoft.VSCod] <defunct>
+root        43     2  0  2019 ?        00:00:00 [crypto]
+romanoad  3386  3383  0  2019 ?        00:00:00 /home/romanoad/cse381/homework/hw5/hw5
+romanoad 14212 14211  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty -- /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/16
+root     14272     2  0 Feb05 ?        00:00:00 [jfsCommit]
+root       283     2  0  2019 ?        00:00:00 [ext4-rsv-conver]
+root        48     2  0  2019 ?        00:00:00 [edac-poller]
+root        40     2  0  2019 ?        00:00:00 [kcompactd0]
+root        25     2  0  2019 ?        00:00:00 [cpuhp/3]
+root       490     2  0  2019 ?        00:00:00 [kdmflush]
+root       743     1  0  2019 ?        00:00:17 /lib/systemd/systemd-logind
+root        30     2  0  2019 ?        00:00:00 [kworker/3:0H]
+fengb3    7089  5970  0  2019 ?        00:00:00 [Microsoft.VSCod] <defunct>
+root     21272     2  0 17:39 ?        00:00:00 [kworker/1:0]
+root        16     2  0  2019 ?        00:08:42 [ksoftirqd/1]
+root       753     1  0  2019 ?        00:00:06 /usr/lib/udisks2/udisksd
+root     25224     2  0 20:58 ?        00:00:00 [kworker/3:0]
+ghumraka 18092 18067  0 Feb07 ?        00:00:00 sshd: ghumraka@notty
+zhang593 18756 17733  0  2019 ?        00:00:00 ./Homework5
+root      2544     2  0 Feb05 ?        00:00:12 [kworker/0:0]
+romanoad  9154  9153  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty -- /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/39
+cerciaj  10076  7354  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --set-erase-key --readenv /var/tmp/dlight_cerciaj/a8532293/env --env DYLD_LIBRARY_PATH= --env LD_LIBRARY_PATH= --env PROMPT_COMMAND=printf "?]3;${PWD}?"; ideopen() { printf "?]10;ext[::] ideopen $*;?"; printf "Opening $# file(s) ... ";} --env TERM=xterm /bin/bash --login
+caof2    13908 13883  0 16:03 ?        00:00:00 sshd: caof2@notty
+root       103     2  0  2019 ?        00:00:00 [scsi_eh_1]
+romanoad  9155  9154  0  2019 ?        00:00:00 /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/39
+root     14270     2  0 Feb05 ?        00:00:00 [jfsCommit]
+root     25092     2  0 20:52 ?        00:00:00 [kworker/u8:0]
+root     17333     2  0 16:37 ?        00:00:00 [kworker/0:2]
+raodm    25455 25454  0 21:08 pts/0    00:00:00 ./a.out -10   --wait  20
+root     14255     2  0 Feb05 ?        00:00:00 [xfsalloc]
+root     25207     2  0 20:57 ?        00:00:00 [kworker/u8:1]
+root     25150   917  0 20:57 ?        00:00:00 sshd:  raodm    [priv]
+cerciaj   7439  7354  0 Jan27 ?        00:00:00 /var/tmp/dlight_cerciaj/a8532293/1764487937/pty --no-pty --readenv /var/tmp/dlight_cerciaj/a8532293/env /var/tmp/dlight_cerciaj/a8532293/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_cerciaj/a8532293/fs_server_cache -c
+root        39     2  0  2019 ?        00:00:00 [writeback]
+www-data 10327   931  0 13:26 ?        00:00:00 /usr/sbin/apache2 -k start
+root        99     2  0  2019 ?        00:00:00 [kthrotld]
+ghumraka 22535 22534  0 18:49 ?        00:00:00 /var/tmp/dlight_ghumraka/f50e6053/0216383175/pty --no-pty -- /var/tmp/dlight_ghumraka/f50e6053/env --env LC_ALL=C /bin/sh -s
+root     22795   917  0 Feb05 ?        00:00:00 sshd: raodm [priv]
+xuz14    29089     1  0  2019 ?        00:00:00 sh /home/xuz14/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/server.sh --host=127.0.0.1 --enable-remote-auto-shutdown --port=0
+root         6     2  0  2019 ?        00:00:00 [mm_percpu_wq]
+root      2692     1  0 Feb05 ?        00:00:12 /lib/systemd/systemd-journald
+root     10461   917  0 Jan27 ?        00:00:00 sshd: cerciaj [priv]
+root        10     2  0  2019 ?        00:00:06 [migration/0]
+romanoad 14211     1  0  2019 ?        00:00:00 /var/tmp/dlight_romanoad/db874ca6/978873583/pty --dir /home/romanoad/cse381/homework/hw9 --no-pty --readenv /var/tmp/dlight_romanoad/db874ca6/env /usr/bin/gdb -x C:\Users\Tony/.gdbinit -nx --interpreter mi -tty /dev/pts/16
+root        31     2  0  2019 ?        00:00:00 [kdevtmpfs]
+root     25382     2  0 21:03 ?        00:00:00 [kworker/u8:2]
+zhang593 29864 29356  0  2019 ?        00:00:00 ./sassy
+root        47     2  0  2019 ?        00:00:00 [md]
+root     14269     2  0 Feb05 ?        00:00:00 [jfsCommit]
+root       195     2  0  2019 ?        00:03:36 [kworker/0:1H]
+root        57     2  0  2019 ?        00:00:00 [ecryptfs-kthrea]
+www-data  6376   931  0 09:54 ?        00:00:00 /usr/sbin/apache2 -k start
+root       188     2  0  2019 ?        00:00:00 [mpt/0]
+systemd+  2674     1  0 Feb05 ?        00:00:00 /lib/systemd/systemd-resolved
+root     21281   917  0 17:45 ?        00:00:00 sshd: nguyen45 [priv]
+nguyen45 21306 21281  0 17:45 ?        00:00:00 sshd: nguyen45@notty

@@ -1,0 +1,346 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root        65     2  0 Sep02 ?        00:00:00 [bioset]
+root        83     2  0 Sep02 ?        00:00:00 [ipv6_addrconf]
+yangz12  26862 26860  0 12:20 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --dir /home/yangz12/NetBeansProjects/yangz12-exercise3 --set-erase-key --report /var/tmp/dlight_yangz12/5308baa6/status -- /var/tmp/dlight_yangz12/5308baa6/env --env OMP_NUM_THREADS=2 --env PATH=/home/yangz12/bin:/home/yangz12/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/bin --env SPRO_EXPAND_ERRORS= --env TERM=xterm /bin/sh -c exec "/home/yangz12/NetBeansProjects/yangz12-exercise3/dist/Debug/GNU-Linux/yangz12-exercise3"
+root       301     1  0 Sep02 ?        00:00:00 /sbin/lvmetad -f
+hawkpf   18797     1  0 Sep04 ?        00:00:00 ssh-agent
+bostoncp 26219 26218  0 12:17 pts/21   00:00:00 bash -i
+zhaow7   19419 19382  0 10:20 ?        00:00:00 sshd: zhaow7@notty
+root       664     1  0 Sep02 ?        00:08:25 /usr/lib/accountsservice/accounts-daemon
+root     23894   949  0 11:42 ?        00:00:00 sshd: siegerma [priv]
+root        18     2  0 Sep02 ?        00:00:11 [ksoftirqd/2]
+root       339     1  0 Sep02 ?        00:01:24 /lib/systemd/systemd-journald
+myersmw2 25152 25117  0 12:12 ?        00:00:00 sshd: myersmw2@pts/2
+mohannmm 26590 26586  0 12:19 ?        00:00:00 (sd-pam)
+salvucwa 27288     1  0 12:24 ?        00:00:00 /lib/systemd/systemd --user
+gentilm5 20933     1  0 Sep10 ?        00:00:00 tmux
+tuttlegr 25234 25199  0 12:12 ?        00:00:00 sshd: tuttlegr@pts/4
+root     20445   949  0 Sep12 ?        00:00:00 sshd: pandeyc [priv]
+root     25107     2  0 12:12 ?        00:00:00 [kworker/2:0]
+zabbix   14932 14927  0 06:25 ?        00:00:00 /usr/sbin/zabbix_agentd: listener #3 [waiting for connection]
+root       814     1  0 Sep02 ?        00:03:00 /usr/sbin/nscd
+ossec     1020     1  0 Sep02 ?        00:03:34 /var/ossec/bin/ossec-agentd
+root       473     2  0 Sep02 ?        00:00:00 [ext4-rsv-conver]
+freundaj 12776 12775  0 Sep14 pts/51   00:00:00 -bash
+root     23394   949  0 11:32 ?        00:00:00 sshd: mullencr [priv]
+www-data 18011  1112  0 09:49 ?        00:00:00 /usr/sbin/apache2 -k start
+root     23392   949  0 11:31 ?        00:00:00 sshd: bentoncl [priv]
+yangz12  19185 19119  0 10:12 ?        00:00:00 /usr/lib/openssh/sftp-server
+root       661     1  0 Sep02 ?        00:00:07 /usr/sbin/cron -f
+gentilm5  8156     1  0 Sep10 ?        00:00:03 /lib/systemd/systemd --user
+raodm    25645 25642  0 12:14 ?        00:00:00 (sd-pam)
+siegerma 23718 23677  0 11:37 ?        00:00:00 sshd: siegerma@pts/14
+root     22306   949  0 11:22 ?        00:00:00 sshd: liangs9 [priv]
+hanmp    19365 19364  0 10:17 ?        00:00:00 /usr/lib/openssh/sftp-server
+message+   689     1  0 Sep02 ?        00:01:09 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root        73     2  0 Sep02 ?        00:00:00 [scsi_eh_0]
+root       163     2  0 Sep02 ?        00:00:00 [scsi_eh_2]
+www-data 26693  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+root        68     2  0 Sep02 ?        00:00:00 [bioset]
+root        39     2  0 Sep02 ?        00:00:00 [devfreq_wq]
+root        45     2  0 Sep02 ?        00:00:00 [vmstat]
+root        44     2  0 Sep02 ?        00:10:04 [kswapd0]
+mullencr 23403 23401  0 11:32 ?        00:00:00 (sd-pam)
+root     26263     2  0 12:17 ?        00:00:00 [kworker/1:1]
+root       151     2  0 Sep02 ?        00:00:00 [bioset]
+root        22     2  0 Sep02 ?        00:00:03 [migration/3]
+birdaj   21049 21047  0 10:55 ?        00:00:00 /var/tmp/dlight_birdaj/e31bc3a1/658807276/pty --no-pty -- /var/tmp/dlight_birdaj/e31bc3a1/env /var/tmp/dlight_birdaj/e31bc3a1/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_birdaj/e31bc3a1/fs_server_cache -K 6876:3000
+gouldeg  25411 25407  0 12:13 ?        00:00:00 (sd-pam)
+root     19083   949  0 10:12 ?        00:00:00 sshd: yangz12 [priv]
+mullencr 23401     1  0 11:32 ?        00:00:00 /lib/systemd/systemd --user
+zabbix   14931 14927  0 06:25 ?        00:00:00 /usr/sbin/zabbix_agentd: listener #2 [waiting for connection]
+root        36     2  0 Sep02 ?        00:00:00 [kblockd]
+zhaow7   19384     1  0 10:20 ?        00:00:00 /lib/systemd/systemd --user
+tangk2   18936 18930  0 10:08 ?        00:00:00 (sd-pam)
+luczajmc 24637 24608  0 12:06 ?        00:00:00 sshd: luczajmc@pts/7
+siegerma 27480 23719  0 12:25 pts/14   00:00:00 nano installDockerWordpress.sh
+luczajmc 15379 15371  0 Sep14 pts/8    00:00:00 /bin/bash
+zhaow7   24121 24092  0 11:48 ?        00:00:00 sshd: zhaow7@notty
+root     26408   949  0 12:17 ?        00:00:00 sshd: sharkerd [priv]
+hawkpf   13156 13152  0 Sep04 ?        00:00:00 (sd-pam)
+gentilm5  8160  8156  0 Sep10 ?        00:00:00 (sd-pam)
+root        66     2  0 Sep02 ?        00:00:00 [bioset]
+salvucwa 27294 27288  0 12:24 ?        00:00:00 (sd-pam)
+root       742     1  0 Sep02 ?        00:00:17 /lib/systemd/systemd-logind
+root        20     2  0 Sep02 ?        00:00:00 [kworker/2:0H]
+root     24092   949  0 11:48 ?        00:00:00 sshd: zhaow7 [priv]
+www-data 14860  1112  0 06:25 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data 24327  1112  0 12:00 ?        00:00:00 /usr/sbin/apache2 -k start
+zhangh48  6001  6000  0 Sep16 pts/46   00:00:00 -bash
+pandeyc  13545     1  0 Sep12 ?        00:00:02 /lib/systemd/systemd --user
+gabbarrp 20593 20586  0 10:44 ?        00:00:00 (sd-pam)
+snyderr  26265 26260  0 12:17 ?        00:00:00 (sd-pam)
+root       149     2  0 Sep02 ?        00:00:00 [bioset]
+luczajmc 24638 24637  0 12:06 pts/7    00:00:00 -bash
+root     26257   949  0 12:17 ?        00:00:00 sshd: snyderr [priv]
+root     26884     2  0 12:21 ?        00:00:00 [kworker/u8:0]
+sharkerd 26446 26445  0 12:17 pts/28   00:00:00 -bash
+waitetw  15488     1  0 Sep13 ?        00:00:02 /lib/systemd/systemd --user
+luczajmc 15371     1  0 Sep14 ?        00:01:06 tmux -u -2 -f /usr/share/byobu/profiles/tmuxrc new-session -n - /usr/bin/byobu-shell
+postfix  21270  1327  0 11:16 ?        00:00:00 pickup -l -t unix -u -c
+pandeyc  20475 20445  0 Sep12 ?        00:00:00 sshd: pandeyc@pts/3
+root        96     2  0 Sep02 ?        00:00:00 [deferwq]
+yangz12  19090 19085  0 10:12 ?        00:00:00 (sd-pam)
+hanmp    19364 19335  0 10:17 ?        00:00:00 sshd: hanmp@notty
+root       688     1  0 Sep02 ?        00:00:00 /usr/bin/VGAuthService
+root        29     2  0 Sep02 ?        00:00:00 [khungtaskd]
+yangz12  19209 19207  0 10:12 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --no-pty -- /var/tmp/dlight_yangz12/5308baa6/env /var/tmp/dlight_yangz12/5308baa6/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_yangz12/5308baa6/fs_server_cache -K 3559:3000
+root        38     2  0 Sep02 ?        00:00:00 [md]
+root       160     2  0 Sep02 ?        00:00:00 [kpsmoused]
+root       306     1  0 Sep02 ?        00:00:00 /lib/systemd/systemd-udevd
+gabbarrp 20586     1  0 10:44 ?        00:00:00 /lib/systemd/systemd --user
+root       152     2  0 Sep02 ?        00:00:00 [bioset]
+bostoncp 25897 25895  0 12:14 pts/10   00:00:00 -bash
+zhangh48  5966     1  0 Sep16 ?        00:00:00 /lib/systemd/systemd --user
+root        64     2  0 Sep02 ?        00:00:00 [acpi_thermal_pm]
+root       165     2  0 Sep02 ?        00:00:00 [bioset]
+birdaj   20964 20876  0 10:55 ?        00:00:00 sshd: birdaj@notty
+sterlel5 19675 19674  0 10:26 ?        00:00:00 /usr/lib/openssh/sftp-server
+root        32     2  0 Sep02 ?        00:00:43 [khugepaged]
+root        10     2  0 Sep02 ?        00:00:02 [watchdog/0]
+yangz12  19119 19083  0 10:12 ?        00:00:00 sshd: yangz12@notty
+root       155     2  0 Sep02 ?        00:00:00 [bioset]
+ralstobj 25954     1  0 12:15 ?        00:00:00 /lib/systemd/systemd --user
+gouldeg  25441 25440  0 12:13 pts/16   00:00:00 -bash
+birdaj   20935 20928  0 10:55 ?        00:00:00 (sd-pam)
+salvucwa 27324 27323  0 12:24 pts/31   00:00:00 -bash
+daemon     656     1  0 Sep02 ?        00:00:00 /usr/sbin/atd -f
+mohannmm 27360 26620  0 12:24 pts/29   00:00:00 script
+ralstobj 25988 25987  0 12:15 pts/18   00:00:00 -bash
+root       154     2  0 Sep02 ?        00:00:00 [bioset]
+mohannmm 26619 26584  0 12:19 ?        00:00:00 sshd: mohannmm@pts/29
+gouldeg  26025 26024  0 12:15 pts/24   00:00:00 bash -i
+root       194     2  0 Sep02 ?        00:00:00 [kdmflush]
+mullencr 25517 25516  0 12:13 pts/17   00:00:00 -bash
+bostoncp 25895 25823  0 12:14 ?        00:00:00 sshd: bostoncp@pts/10
+root     20584   949  0 10:44 ?        00:00:00 sshd: gabbarrp [priv]
+root       889     1  0 Sep02 ?        00:00:33 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root     25946   949  0 12:15 ?        00:00:00 sshd: ralstobj [priv]
+sterlel5 19603 19599  0 10:26 ?        00:00:00 (sd-pam)
+freundaj 12743     1  0 Sep14 ?        00:00:01 /lib/systemd/systemd --user
+root        16     2  0 Sep02 ?        00:00:02 [watchdog/2]
+root     26103     2  0 12:15 ?        00:00:00 [kworker/u8:3]
+root       280     2  0 Sep02 ?        00:00:00 [kauditd]
+yangz12  27241 27240  0 12:23 pts/30   00:00:00 /bin/bash --login
+freundaj 12775 12736  0 Sep14 ?        00:00:00 sshd: freundaj@pts/51
+myersmw2 25368 25153  0 12:13 pts/2    00:00:00 script Lab1Part1_myers.log
+root       196     2  0 Sep02 ?        00:00:00 [bioset]
+hamiltcp 25670 25665  0 12:14 ?        00:00:00 (sd-pam)
+snyderr  26260     1  0 12:17 ?        00:00:00 /lib/systemd/systemd --user
+luczajmc 15112 15104  0 Sep14 ?        00:00:00 (sd-pam)
+root     24297     2  0 11:57 ?        00:00:00 [kworker/u8:2]
+root        17     2  0 Sep02 ?        00:00:03 [migration/2]
+root     19597   949  0 10:26 ?        00:00:00 sshd: sterlel5 [priv]
+root      1327     1  0 Sep02 ?        00:00:04 /usr/lib/postfix/sbin/master
+sharkerd 26445 26408  0 12:17 ?        00:00:00 sshd: sharkerd@pts/28
+root       290     2  0 Sep02 ?        00:00:00 [kworker/1:1H]
+mullencr 23432 23394  0 11:32 ?        00:00:00 sshd: mullencr@pts/5
+craigoej 28468     1  0 Sep06 ?        00:00:05 /lib/systemd/systemd --user
+root     18928   949  0 10:08 ?        00:00:00 sshd: tangk2 [priv]
+mysql      983     1  0 Sep02 ?        00:14:04 /usr/sbin/mysqld
+root       233     2  0 Sep02 ?        00:00:40 [jbd2/dm-0-8]
+root       780     1  0 Sep02 ?        00:00:00 /sbin/dhclient -1 -v -pf /run/dhclient.eth0.pid -lf /var/lib/dhcp/dhclient.eth0.leases -I -df /var/lib/dhcp/dhclient6.eth0.leases eth0
+root       745     1  0 Sep02 ?        00:00:00 /usr/sbin/inetd -i
+www-data 26746  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+luczajmc 29783 29782  0 Sep16 pts/27   00:00:00 /bin/bash
+zhaow7   19420 19419  0 10:20 ?        00:00:00 /usr/lib/openssh/sftp-server
+birdaj   21050 21049  0 10:55 ?        00:00:00 /var/tmp/dlight_birdaj/e31bc3a1/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_birdaj/e31bc3a1/fs_server_cache -K 6876 3000
+root     26813     2  0 12:20 ?        00:00:00 [kworker/1:3]
+raodm    26077 26048  0 12:15 ?        00:00:00 sshd: raodm@pts/25
+mohannmm 26586     1  0 12:19 ?        00:00:00 /lib/systemd/systemd --user
+root        11     2  0 Sep02 ?        00:00:02 [watchdog/1]
+root       157     2  0 Sep02 ?        00:00:00 [mpt_poll_0]
+zabbix   14929 14927  0 06:25 ?        00:00:02 /usr/sbin/zabbix_agentd: collector [idle 1 sec]
+pandeyc  20476 20475  0 Sep12 pts/3    00:00:00 -bash
+salvucwa 27323 27282  0 12:24 ?        00:00:00 sshd: salvucwa@pts/31
+root     25487   949  0 12:13 ?        00:00:00 sshd: mullencr [priv]
+bentoncl 23503 23502  0 11:32 pts/6    00:00:00 -bash
+root        76     2  0 Sep02 ?        00:00:00 [scsi_tmf_1]
+craigoej  3135  3085  0 Sep06 pts/0    00:00:01 /home/craigoej/anaconda3/bin/python /home/craigoej/anaconda3/bin/jupyter-notebook
+lir25    27658 27653  0 Sep14 ?        00:00:00 (sd-pam)
+root        72     2  0 Sep02 ?        00:00:00 [bioset]
+hanmp    31299     1  0 Sep16 ?        00:00:00 /lib/systemd/systemd --user
+root       150     2  0 Sep02 ?        00:00:00 [bioset]
+myersmw2 25369 25368  0 12:13 pts/20   00:00:00 bash -i
+birdaj   21047 20964  0 10:55 ?        00:00:00 /var/tmp/dlight_birdaj/e31bc3a1/658807276/pty --no-pty --readenv /var/tmp/dlight_birdaj/e31bc3a1/env /var/tmp/dlight_birdaj/e31bc3a1/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_birdaj/e31bc3a1/fs_server_cache -K 6876:3000
+raodm    25681 25640  0 12:14 ?        00:00:00 sshd: raodm@pts/22
+root        23     2  0 Sep02 ?        00:00:10 [ksoftirqd/3]
+yangz12  26866 26864  0 12:20 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --no-pty -- /var/tmp/dlight_yangz12/5308baa6/env --env LC_ALL=C /bin/sh -s
+zhangh48  5971  5966  0 Sep16 ?        00:00:00 (sd-pam)
+root     26413     2  0 12:17 ?        00:00:00 [kworker/0:1]
+root       153     2  0 Sep02 ?        00:00:00 [bioset]
+root     24163     2  0 11:48 ?        00:00:00 [kworker/3:3]
+siegerma 23959 23924  0 11:42 pts/15   00:00:00 ssh ubuntu@172.17.30.70
+raodm    26078 26077  0 12:15 pts/25   00:00:00 /bin/sh
+snyderr  26294 26257  0 12:17 ?        00:00:00 sshd: snyderr@pts/26
+mohannmm 26620 26619  0 12:19 pts/29   00:00:00 -bash
+bentoncl 23468     1  0 11:32 ?        00:00:00 /lib/systemd/systemd --user
+root         5     2  0 Sep02 ?        00:00:00 [kworker/0:0H]
+zhangh48  6000  5944  0 Sep16 ?        00:00:00 sshd: zhangh48@pts/46
+zhaow7   24122 24121  0 11:48 ?        00:00:00 /usr/lib/openssh/sftp-server
+raodm    27535 25697  0 12:26 pts/22   00:00:00 ps -fe
+root      1032     2  0 Sep02 ?        00:00:02 [kworker/2:1H]
+root     23677   949  0 11:37 ?        00:00:00 sshd: siegerma [priv]
+myersmw2 25123 25119  0 12:12 ?        00:00:00 (sd-pam)
+salvucwa 27425 27324  0 12:24 pts/31   00:00:00 script
+root     12736   949  0 Sep14 ?        00:00:00 sshd: freundaj [priv]
+root      1028     1  0 Sep02 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+mullencr 23433 23432  0 11:32 pts/5    00:00:00 -bash
+zhaow7   19387 19384  0 10:20 ?        00:00:00 (sd-pam)
+root        47     2  0 Sep02 ?        00:00:00 [ecryptfs-kthrea]
+ralstobj 25958 25954  0 12:15 ?        00:00:00 (sd-pam)
+root        25     2  0 Sep02 ?        00:00:00 [kworker/3:0H]
+root     19382   949  0 10:20 ?        00:00:00 sshd: zhaow7 [priv]
+ralstobj 25987 25946  0 12:15 ?        00:00:00 sshd: ralstobj@pts/18
+root        70     2  0 Sep02 ?        00:00:00 [bioset]
+myersmw2 25119     1  0 12:12 ?        00:00:00 /lib/systemd/systemd --user
+root     25199   949  0 12:12 ?        00:00:00 sshd: tuttlegr [priv]
+yangz12  26864 19119  0 12:20 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --no-pty --readenv /var/tmp/dlight_yangz12/5308baa6/env --env LC_ALL=C /bin/sh -s
+root       338     1  0 Sep02 ?        00:01:40 /usr/sbin/haveged --Foreground --verbose=1 -w 1024
+liangs9  22373 22369  0 11:22 pts/13   00:00:00 -bash
+root        26     2  0 Sep02 ?        00:00:00 [kdevtmpfs]
+craigoej  3085  3084  0 Sep06 pts/0    00:00:00 -bash
+root       938     1  0 Sep02 ?        00:33:45 /opt/tivoli/tsm/client/ba/bin/dsmc sched
+root     19335   949  0 10:17 ?        00:00:00 sshd: hanmp [priv]
+root         7     2  0 Sep02 ?        00:03:10 [rcu_sched]
+root        15     2  0 Sep02 ?        00:00:00 [kworker/1:0H]
+root     20876   949  0 10:54 ?        00:00:00 sshd: birdaj [priv]
+root     25823   949  0 12:14 ?        00:00:00 sshd: bostoncp [priv]
+hamiltcp 25665     1  0 12:14 ?        00:00:00 /lib/systemd/systemd --user
+birdaj   20928     1  0 10:55 ?        00:00:00 /lib/systemd/systemd --user
+root        30     2  0 Sep02 ?        00:00:00 [writeback]
+snyderr  27512 27500  0 12:26 pts/26   00:00:00 pager
+hamiltcp 25727 25726  0 12:14 pts/23   00:00:00 -bash
+root        33     2  0 Sep02 ?        00:00:00 [crypto]
+root     25117   949  0 12:12 ?        00:00:00 sshd: myersmw2 [priv]
+root       234     2  0 Sep02 ?        00:00:00 [ext4-rsv-conver]
+root  949     1  0 Sep02 ?        00:00:11 /usr/sbin/sshd   -D      -d
+bentoncl 23502 23392  0 11:32 ?        00:00:00 sshd: bentoncl@pts/6
+gouldeg  25407     1  0 12:13 ?        00:00:00 /lib/systemd/systemd --user
+myersmw2 25153 25152  0 12:12 pts/2    00:00:00 -bash
+snyderr  27500 26295  0 12:26 pts/26   00:00:00 man sort
+root       204     2  0 Sep02 ?        00:00:00 [kdmflush]
+tuttlegr 25205 25201  0 12:12 ?        00:00:00 (sd-pam)
+zabbix   14930 14927  0 06:25 ?        00:00:00 /usr/sbin/zabbix_agentd: listener #1 [waiting for connection]
+salvucwa 27426 27425  0 12:24 pts/33   00:00:00 bash -i
+yangz12  26860 19119  0 12:20 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --dir /home/yangz12/NetBeansProjects/yangz12-exercise3 --set-erase-key --report /var/tmp/dlight_yangz12/5308baa6/status --readenv /var/tmp/dlight_yangz12/5308baa6/env --env OMP_NUM_THREADS=2 --env PATH=/home/yangz12/bin:/home/yangz12/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/bin --env SPRO_EXPAND_ERRORS= --env TERM=xterm /bin/sh -c exec "/home/yangz12/NetBeansProjects/yangz12-exercise3/dist/Debug/GNU-Linux/yangz12-exercise3"
+sterlel5 19599     1  0 10:26 ?        00:00:00 /lib/systemd/systemd --user
+bostoncp 25840     1  0 12:14 ?        00:00:00 /lib/systemd/systemd --user
+birdaj   21028 20964  0 10:55 ?        00:00:00 /usr/lib/openssh/sftp-server
+root       164     2  0 Sep02 ?        00:00:00 [scsi_tmf_2]
+root         1     0  0 Sep02 ?        00:01:44 /sbin/init
+www-data 26684  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data 26747  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+hamiltcp 25726 25618  0 12:14 ?        00:00:00 sshd: hamiltcp@pts/23
+root        75     2  0 Sep02 ?        00:00:00 [scsi_eh_1]
+yangz12  19085     1  0 10:12 ?        00:00:00 /lib/systemd/systemd --user
+root        98     2  0 Sep02 ?        00:00:00 [bioset]
+waitetw  15493 15488  0 Sep13 ?        00:00:00 (sd-pam)
+yangz12  19210 19209  0 10:12 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_yangz12/5308baa6/fs_server_cache -K 3559 3000
+root       989     1  0 Sep02 ?        00:00:00 /var/ossec/bin/ossec-execd
+yangz12  27240 27238  0 12:23 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --dir /home/yangz12/NetBeansProjects/yangz12-exercise3 --set-erase-key -- /var/tmp/dlight_yangz12/5308baa6/env --env DYLD_LIBRARY_PATH= --env LD_LIBRARY_PATH= --env PROMPT_COMMAND=printf "?]3;${PWD}?"; ideopen() { printf "?]10;ext[::] ideopen $*;?"; printf "Opening $# file(s) ... ";} --env TERM=xterm /bin/bash --login
+gouldeg  25440 25402  0 12:13 ?        00:00:00 sshd: gouldeg@pts/16
+root        12     2  0 Sep02 ?        00:00:03 [migration/1]
+lir25    27653     1  0 Sep14 ?        00:00:01 /lib/systemd/systemd --user
+root     24608   949  0 12:05 ?        00:00:00 sshd: luczajmc [priv]
+www-data 17865  1112  0 09:42 ?        00:00:00 /usr/sbin/apache2 -k start
+syslog     654     1  0 Sep02 ?        00:00:40 /usr/sbin/rsyslogd -n
+root     27282   949  0 12:24 ?        00:00:00 sshd:  salvucwa    [ priv]
+root         3     2  0 Sep02 ?        00:00:04 [ksoftirqd/0]
+root        28     2  0 Sep02 ?        00:00:00 [perf]
+mohannmm 27361 27360  0 12:24 pts/32   00:00:00 bash -i
+gentilm5 20934 20933  0 Sep10 pts/12   00:00:00 -bash
+siegerma 23684     1  0 11:37 ?        00:00:00 /lib/systemd/systemd --user
+sterlel5 19674 19597  0 10:26 ?        00:00:00 sshd: sterlel5@notty
+root     24009     2  0 11:46 ?        00:00:00 [kworker/0:3]
+root       161     2  0 Sep02 ?        00:00:01 [kworker/0:1H]
+yangz12  26863 26862  0 12:20 pts/19   00:00:00 /home/yangz12/NetBeansProjects/yangz12-exercise3/dist/Debug/GNU-Linux/yangz12-exercise3
+luczajmc 29782     1  0 Sep16 ?        00:00:00 SCREEN
+gabbarrp 20622 20584  0 10:44 ?        00:00:00 sshd: gabbarrp@pts/11
+luczajmc 25846 24638  0 12:14 pts/7    00:00:00 script CSE381Lab1_luczajmc_2.txt
+root        37     2  0 Sep02 ?        00:00:00 [ata_sff]
+root        46     2  0 Sep02 ?        00:00:00 [fsnotify_mark]
+bostoncp 25843 25840  0 12:14 ?        00:00:00 (sd-pam)
+tuttlegr 25235 25234  0 12:12 pts/4    00:00:00 -bash
+tuttlegr 25201     1  0 12:12 ?        00:00:00 /lib/systemd/systemd --user
+yangz12  27238 19119  0 12:23 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --dir /home/yangz12/NetBeansProjects/yangz12-exercise3 --set-erase-key --readenv /var/tmp/dlight_yangz12/5308baa6/env --env DYLD_LIBRARY_PATH= --env LD_LIBRARY_PATH= --env PROMPT_COMMAND=printf "?]3;${PWD}?"; ideopen() { printf "?]10;ext[::] ideopen $*;?"; printf "Opening $# file(s) ... ";} --env TERM=xterm /bin/bash --login
+freundaj 12746 12743  0 Sep14 ?        00:00:00 (sd-pam)
+zabbix   14933 14927  0 06:25 ?        00:00:00 /usr/sbin/zabbix_agentd: active checks #1 [idle 1 sec]
+raodm    25642     1  0 12:14 ?        00:00:00 /lib/systemd/systemd --user
+root        21     2  0 Sep02 ?        00:00:02 [watchdog/3]
+siegerma 23923 23894  0 11:42 ?        00:00:00 sshd: siegerma@pts/15
+tangk2   18930     1  0 10:08 ?        00:00:00 /lib/systemd/systemd --user
+sharkerd 26411     1  0 12:17 ?        00:00:00 /lib/systemd/systemd --user
+root         2     0  0 Sep02 ?        00:00:00 [kthreadd]
+zabbix   14927     1  0 06:25 ?        00:00:00 /usr/sbin/zabbix_agentd
+root     27291     2  0 12:24 ?        00:00:00 [kworker/0:0]
+mullencr 25516 25487  0 12:13 ?        00:00:00 sshd: mullencr@pts/17
+birdaj   21027 20964  0 10:55 ?        00:00:00 /usr/lib/openssh/sftp-server
+root        63     2  0 Sep02 ?        00:00:00 [kthrotld]
+postfix   1332  1327  0 Sep02 ?        00:00:02 qmgr -l -t unix -u
+craigoej 28472 28468  0 Sep06 ?        00:00:00 (sd-pam)
+root     25402   949  0 12:13 ?        00:00:00 sshd: gouldeg [priv]
+root       148     2  0 Sep02 ?        00:00:00 [bioset]
+root        71     2  0 Sep02 ?        00:00:00 [bioset]
+root     26584   949  0 12:19 ?        00:00:00 sshd: mohannmm [priv]
+hawkpf   13152     1  0 Sep04 ?        00:00:06 /lib/systemd/systemd --user
+root     25618   949  0 12:14 ?        00:00:00 sshd: hamiltcp [priv]
+root      5944   949  0 Sep16 ?        00:00:00 sshd: zhangh48 [priv]
+root     26048   949  0 12:15 ?        00:00:00 sshd: raodm [priv]
+root     26786     2  0 12:20 ?        00:00:00 [kworker/3:2]
+bostoncp 26218 25897  0 12:17 pts/10   00:00:00 script Lab1Part1_boston.log
+mciear   14659     1  0 Sep11 ?        00:00:03 /lib/systemd/systemd --user
+sharkerd 26416 26411  0 12:17 ?        00:00:00 (sd-pam)
+root        27     2  0 Sep02 ?        00:00:00 [netns]
+root       686     1  0 Sep02 ?        00:00:00 /sbin/cgmanager -m name=systemd
+liangs9  22335     1  0 11:22 ?        00:00:00 /lib/systemd/systemd --user
+root       158     2  0 Sep02 ?        00:00:00 [mpt/0]
+root        97     2  0 Sep02 ?        00:00:00 [charger_manager]
+siegerma 23689 23684  0 11:37 ?        00:00:00 (sd-pam)
+root         8     2  0 Sep02 ?        00:00:00 [rcu_bh]
+www-data 26694  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+hanmp    31306 31299  0 Sep16 ?        00:00:00 (sd-pam)
+memcache   936     1  0 Sep02 ?        00:00:28 /usr/bin/memcached -m 64 -p 11211 -u memcache -l 127.0.0.1
+siegerma 23719 23718  0 11:37 pts/14   00:00:00 -bash
+raodm    25697 25681  0 12:14 pts/22   00:00:00 -bash   --posix    --norc
+root       757     1  0 Sep02 ?        00:00:00 /usr/sbin/acpid
+root        31     2  0 Sep02 ?        00:00:00 [ksmd]
+root        67     2  0 Sep02 ?        00:00:00 [bioset]
+root      1092     1  0 Sep02 ?        00:19:46 /usr/bin/python3 /usr/bin/fail2ban-server -s /var/run/fail2ban/fail2ban.sock -p /var/run/fail2ban/fail2ban.pid -x -b
+yangz12  19207 19119  0 10:12 ?        00:00:00 /var/tmp/dlight_yangz12/5308baa6/01789102528/pty --no-pty --readenv /var/tmp/dlight_yangz12/5308baa6/env /var/tmp/dlight_yangz12/5308baa6/bin/Linux-x86_64/fs_server -t 4 -p -d /var/tmp/dlight_yangz12/5308baa6/fs_server_cache -K 3559:3000
+siegerma 23924 23923  0 11:42 pts/15   00:00:00 -bash
+luczajmc 15104     1  0 Sep14 ?        00:00:01 /lib/systemd/systemd --user
+root      1048     1  0 Sep02 ?        00:00:31 /var/ossec/bin/ossec-logcollector
+root        34     2  0 Sep02 ?        00:00:00 [kintegrityd]
+root        69     2  0 Sep02 ?        00:00:00 [bioset]
+root      1112     1  0 Sep02 ?        00:00:36 /usr/sbin/apache2 -k start
+root       486     1  0 Sep02 ?        00:08:24 /usr/bin/vmtoolsd
+snyderr  26295 26294  0 12:17 pts/26   00:00:00 -bash
+shadeor   4010  4003  0 Sep14 ?        00:00:00 (sd-pam)
+root      1052     1  0 Sep02 ?        00:51:52 /var/ossec/bin/ossec-syscheckd
+root      1034     1  0 Sep02 ?        00:00:10 /usr/lib/policykit-1/polkitd --no-debug
+craigoej  3084     1  0 Sep06 ?        00:00:18 tmux
+liangs9  22369 22306  0 11:22 ?        00:00:00 sshd: liangs9@pts/13
+root       384     2  0 Sep02 ?        00:00:02 [kworker/3:1H]
+yangz12  26867 26866  0 12:20 ?        00:00:00 /bin/sh -s
+root        13     2  0 Sep02 ?        00:00:10 [ksoftirqd/1]
+tangk2   18965 18928  0 10:08 ?        00:00:00 sshd: tangk2@pts/9
+www-data 26685  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+root       167     2  0 Sep02 ?        00:00:00 [bioset]
+pandeyc  13549 13545  0 Sep12 ?        00:00:00 (sd-pam)
+bentoncl 23473 23468  0 11:32 ?        00:00:00 (sd-pam)
+gabbarrp 20623 20622  0 10:44 pts/11   00:00:00 -bash
+root         9     2  0 Sep02 ?        00:00:03 [migration/0]
+shadeor   4003     1  0 Sep14 ?        00:00:01 /lib/systemd/systemd --user
+gouldeg  26024 25441  0 12:15 pts/16   00:00:00 script
+root     25640   949  0 12:14 ?        00:00:00 sshd: raodm [priv]
+www-data 26696  1112  0 12:19 ?        00:00:00 /usr/sbin/apache2 -k start
+mciear   14663 14659  0 Sep11 ?        00:00:00 (sd-pam)
+liangs9  22340 22335  0 11:22 ?        00:00:00 (sd-pam)
+luczajmc 25847 25846  0 12:14 pts/1    00:00:00 bash -i
+root      1076     1  0 Sep02 ?        01:13:00 /usr/sbin/collectd
+tangk2   18966 18965  0 10:08 pts/9    00:00:00 -bash
+root     24321     2  0 11:59 ?        00:00:00 [kworker/2:1]
+root       207     2  0 Sep02 ?        00:00:00 [bioset]
+root        35     2  0 Sep02 ?        00:00:00 [bioset]
+root        74     2  0 Sep02 ?        00:00:00 [scsi_tmf_0]
