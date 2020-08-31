@@ -34,7 +34,7 @@ public:
      * @param in A file stream of the processes.
      * @return 
      */
-    void LoadTree(std::ifstream& in);
+    void loadTree(std::ifstream& in);
     
     /**
      * Recursively prints the full hierarchy of processes (in top-down order) 
@@ -42,7 +42,7 @@ public:
      * @param out An output stream where the hierarchy will be printed
      * @param pid The PID where the top-down hierarchy will end.
      */
-    void PrintTree(std::ostream& out, const int& pid);
+    void printTree(std::ostream& out, const int& pid);
     
 private:
     /*

@@ -25,7 +25,7 @@ Solution::Solution() {}
 Solution::~Solution() {}
 
 // Loads a process tree into memory.
-void Solution::LoadTree(std::ifstream& in) {
+void Solution::loadTree(std::ifstream& in) {
     std::string line, dummy, cmd;
     int pid, ppid;
     
@@ -62,14 +62,14 @@ void Solution::LoadTree(std::ifstream& in) {
 
 // Recursively prints the full hierarchy of processes (in top-down order) 
 // for a given PID of the in memory process tree to an ostream.
-void Solution::PrintTree(std::ostream& out, const int& pid) {
+void Solution::printTree(std::ostream& out, const int& pid) {
     // Gets the PPID to recursively go to the root of the tree.
     int ppid = Solution::parentMap[pid];
     
     // If the PPID is 0, stop recursively going up the tree; otherwise, 
     // keep recursively going up the tree.
     if (ppid != 0) {
-        PrintTree(out, Solution::parentMap[pid]);
+        printTree(out, Solution::parentMap[pid]);
     }
     
     // Output the PID, PPID, and CMD.
@@ -85,14 +85,14 @@ int main(int argc, char** argv) {
     ifstream file(argv[1]);
     
     // Loads the tree so that it can be printed later.
-    sol.LoadTree(file);
+    sol.loadTree(file);
     
     // Prints a header text so that user knows how to interpret the output.
     std::cout << "Process tree for PID: " << argv[2] << std::endl;
     std::cout << "PID\tPPID\tCMD" << std::endl;
     
     // Prints the process hierarchy top-down.
-    sol.PrintTree(std::cout, std::stoi(argv[2]));
+    sol.printTree(std::cout, std::stoi(argv[2]));
     
     return 0;
 }
