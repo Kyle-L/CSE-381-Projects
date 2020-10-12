@@ -1,0 +1,14 @@
+"trans=reset" "All accounts reset"
+"run" 1 1
+"trans=create&acct=0x01" "Account 0x01 created"
+"trans=create&acct=0x01" "Account 0x01 already exists"
+"trans=status&acct=0x01" "Account 0x01: $0.00"
+"trans=credit&acct=0x01&amount=100" "Account balance updated"
+"trans=status&acct=0x01" "Account 0x01: $100.00"
+"trans=credit&acct=0x01&amount=200" "Account balance updated"
+"trans=status&acct=0x01" "Account 0x01: $300.00"
+"trans=credit&acct=0x01&amount=50.25" "Account balance updated"
+"trans=status&acct=0x01" "Account 0x01: $350.25"
+"trans=debit&acct=0x01&amount=50.25" "Account balance updated"
+"trans=status&acct=0x01" "Account 0x01: $300.00"
+"run" 1 1
