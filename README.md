@@ -37,6 +37,9 @@ This is the repository for the development of coding assignments for [CSE 381 Sy
   - [Homework 7](Homeworks/Homework7/)
     - [Project Files](Homeworks/Homework7/homework7)
     - [Starter Files](Homeworks/Homework7/starter_files)
+  - [Homework 8](Homeworks/Homework8/)
+    - [Project Files](Homeworks/Homework8/homework8)
+    - [Starter Files](Homeworks/Homework8/starter_files)
     
 <a name="license"></a>
 ## License
